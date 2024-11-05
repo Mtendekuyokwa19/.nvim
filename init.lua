@@ -18,3 +18,5 @@ lspconfig.emmet_ls.setup({
       },
     }
 })
+--Lua:
+vim.g.material_style = "deep ocean"

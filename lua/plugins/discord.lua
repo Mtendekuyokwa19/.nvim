@@ -1,1 +1,4 @@
-use{"andweeb/presence.nvim",config="require('presence-config')"}
+return{ 
+    'IogaMaster/neocord',
+    event = "VeryLazy"
+}
